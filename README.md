@@ -85,7 +85,7 @@ Flutter SDK installed.
 
 3. **Environment Configuration**
 
-    Change these vars to your supabase url and anonkey:
+    Change these vars to your supabase url and anonkey in `lib/main.dart`:
 
         await Supabase.initialize(
             url: 'https://YOUR_SUPABASE_URL',
