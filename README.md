@@ -36,7 +36,7 @@ The backend server (Part 2) handling the backend logic wll be uploaded soon.
 
 ### This project follows a split-stack architecture:
 
-- Frontend (This Repo): * Built with Flutter.
+- Frontend (This Repo): Built with Flutter.
 
 - Handles UI, User Input, and Display.
 
