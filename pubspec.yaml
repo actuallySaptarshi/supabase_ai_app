@@ -1,0 +1,33 @@
+name: supabase_ai_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.1
+
+dependencies:
+  double_back_to_exit: ^1.2.1
+  dropdown_button2: ^2.3.9
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.4
+  flutter_markdown: ^0.7.7+1
+  flutter_svg: ^2.2.3
+  fluttertoast: ^9.0.0
+  go_router: ^17.0.0
+  google_fonts: ^6.3.2
+  google_nav_bar: ^5.0.7
+  icons_plus: ^5.0.0
+  loading_indicator: ^3.1.1
+  provider: ^6.1.5+1
+  supabase_flutter: ^2.10.3
+  text_divider: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
