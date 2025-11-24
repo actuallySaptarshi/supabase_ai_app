@@ -23,6 +23,15 @@ The backend server (Part 2) handling the backend logic wll be uploaded soon.
 
 ✅ **Cross-Platform:** Runs on Android, iOS, Web, and Desktop.
 
+## 📸 Screenshots
+
+<p align="center">
+<img width="150" height="321" alt="login" src="https://github.com/user-attachments/assets/19829db4-7791-4d8a-973e-2ada6fae9ebb" />
+<img width="150" height="321" alt="chat_history" src="https://github.com/user-attachments/assets/27fd3015-699a-4a0b-8b37-6123ae568bf1" />
+<img width="150" height="321" alt="account_settings" src="https://github.com/user-attachments/assets/d2d0fa78-5254-4b16-8b8d-e0d75a06888e" />
+<img width="150" height="321" alt="Screenshot 2025-11-24 120203" src="https://github.com/user-attachments/assets/487cedf4-6632-449b-8f26-37b58ae031f7" />
+</p>
+
 ## 🏗️ Architecture
 
 ### This project follows a split-stack architecture:
@@ -113,5 +122,5 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 <p align="center">
-Built with ❤️ by <a href="https://www.google.com/search?q=https://github.com/actuallySaptarshi">actuallySaptarshi</a>
+Follow me @ <a href="https://www.google.com/search?q=https://github.com/actuallySaptarshi">actuallySaptarshi</a>
 </p>
