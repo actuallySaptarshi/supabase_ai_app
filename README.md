@@ -6,7 +6,9 @@
 <img src="https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoSize=auto" alt="Dart" />
 </p>
 
-A Gemini-like AI chat application built with Flutter for the frontend and Supabase for backend-as-a-service (Authentication & Storage). This application communicates with a custom Python backend (Flask/FastAPI) powered by LangChain to handle AI processing and response generation.
+> **Check out the backend (Part 2)** [Here](https://github.com/actuallySaptarshi/supabase-ai-app-backend)
+
+A Gemini/ChatGPT-like AI chat interface application built with Flutter for the frontend and Supabase for backend-as-a-service (Authentication & Storage). This application communicates with a custom Python backend (Flask/FastAPI) powered by LangChain to handle AI processing and response generation.
 
 Note: This repository contains Part 1 (Frontend) of the project.
 The backend server (Part 2) handling the backend logic wll be uploaded soon.
